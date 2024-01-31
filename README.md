@@ -9,4 +9,4 @@ The Date Formatter is a versatile tool that allows you to format today's date in
 - JavaScript
 
 ## Getting Started
-Simply open [Date Formatter](https://github.com/samuelcardenasg23/date-formatter.git)
+Simply open [Date Formatter](https://samuelcardenasg23.github.io/date-formatter/)
